@@ -5,4 +5,4 @@ While doing some Exploratory Data Analysis i came upon a histogram that resemble
 
 The aim of this repo is to make similar findings available to others for replicative joy. 
 
-[[https://github.com/jaymon0703/coincidentally-iconic-visualizations/blob/master/Burj_Khalifa/images/real_Burj_Khalifa.jpg|alt=octocat]]
+[https://github.com/jaymon0703/coincidentally-iconic-visualizations/blob/master/Burj_Khalifa/images/real_Burj_Khalifa.jpg|alt=octocat]
